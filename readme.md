@@ -1,4 +1,5 @@
 <h1>Simple Blog System With Laravel Last Version</h1>
+<h5>Its Working on http://{your-link}/admin</h5>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
